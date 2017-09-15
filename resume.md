@@ -5,6 +5,6 @@ permalink: /resume/
 ---
 
 Name: Aranya Taweenet
-#Education
+# Education
 
 Bs.C. Computer Science, faculty of Computer Science, Ubon Ratchathani Ratchabhat University.
